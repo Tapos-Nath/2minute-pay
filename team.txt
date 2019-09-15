@@ -1,0 +1,10 @@
+ 
+project name:online payment system
+Team Name:Code chife
+........................
+Team Member
+1.Mira Jull Karim(Leader) (Dep:DNT 2nd shift)
+2.Ripon Shekh (Dep:DNT 2nd shift)
+3.Hasem Akram (Dep:CST 2nd shift) 
+4.Abul Hasanant Abdulla (DNT 2nd shift)
+5.Omar Ali (CST 2nd shift)

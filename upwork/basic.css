@@ -1,0 +1,101 @@
+************ TABLE OF CONTENTS ***************
+1. Header Area
+**********************************************/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+
+a:focus {
+    outline: 0 solid
+}
+
+img {
+    max-width: 100%;
+}
+
+span,
+a {
+    display: inline-block;
+    font-style: normal;
+}
+
+ul,
+li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: inline-block;
+}
+
+a,
+a:hover,
+a:focus {
+    text-decoration: none;
+    transition: .4s;
+}
+
+input {
+    outline: none !important;
+}
+html,
+body {
+    color: #a6a6a6;
+    font-family: 'proxima_nova_rgregular';
+    font-style: normal;
+     height: 100%;
+}
+
+a, a:hover {
+    text-decoration: none
+    font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-style: normal;
+    font-weight: 700;
+    font-family: 'proxima_novasemibold';
+    
+}
+p{
+    font-style: normal;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}
+
+.nav > li > a:focus,
+.nav > li > a:hover {
+    background-color: transparent;
+    text-decoration: none;
+    font-style: normal;
+}
+
+
+/*
+============================================================================
+			Window Preloader Area Starts
+============================================================================

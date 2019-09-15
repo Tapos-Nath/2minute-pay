@@ -1,0 +1,127 @@
+body{
+background:#1C93AD;
+}
+
+.wrapper{height:auto;
+         width:1360px;
+		 float:left;
+		 }
+.banner{height:500px;
+        width:890px;
+		margin-left:270px;
+		box-shadow:0px 0px 10px #000;
+		border-radius:6px;
+		margin-top:40px;
+		float:left;
+		}		 
+.banner_left{height:550px;
+             width:465px;
+			 border-radius:6px 0px 0px 6px;
+			 float:left;
+			 }
+.banner_right{height:550px;
+              width:425px;
+			  border-radius:0px 6px 6px 0px;
+			  background:#FFFFFF;
+			  float:left;
+			  }
+.left{height:450px;
+      width:30px;
+	  float:left;
+	  }
+.main_content{height:520px;
+              width:390px;
+			  margin-left:32px;
+			  float:left;
+			  }
+.main_content_top{height:31px;
+                  width:388px;
+				  float:left;
+				  }
+.user_name{height:45px;
+            width:360px;
+			margin-top:10px;
+			border:none;
+			background:#F2F2F2;
+			font-family:arial;
+			font-size:15px;
+			padding:0 10px;
+			border-radius:5px;
+			float:left;
+			}
+.user_email{height:45px;
+            width:360px;
+			margin-top:20px;
+			border:none;
+			background:#F2F2F2;
+			font-family:arial;
+			font-size:15px;
+			padding:0 10px;
+			border-radius:5px;
+			float:left;
+			}
+.user_password{height:45px;
+               width:360px;
+			   margin-top:20px;
+			   border:none;
+			   background:#F2F2F2;
+			   font-family:arial;
+			   font-size:15px;
+			   padding:0 10px;
+			   border-radius:5px;
+			   float:left;
+			   }
+.phone_num{    height:45px;
+               width:360px;
+			   margin-top:20px;
+			   border:none;
+			   background:#F2F2F2;
+			   font-family:arial;
+			   font-size:15px;
+			   padding:0 10px;
+			   border-radius:5px;
+			   float:left;
+			   }
+.prepaid{height:20px;
+         width:20px;
+		 margin-top:15px;
+		 float:left;
+		 }
+.postpaid{height:20px;
+          width:20px;
+		  margin-top:15px;
+		  float:left;
+		  }	
+.pre{font-size:18px;
+      font-family:arial;
+	  margin-top:12px;
+	  color:#A8AEAF;
+	  float:left;
+	  }
+.create_wallet{height:50px;
+               width:360px;
+			   margin-top:10px;
+			   border:none;
+			   font-size:22px;
+			   font-family:arial;
+			   cursor:pointer;
+			   background:#3FA7BA;
+			   border-radius:5px;
+			   transition:.5s;
+			   color:#FFFFFF;
+			   float:left;
+			   }
+.create_wallet:hover{background:#2C8292; transition:1s;}
+.have_account{font-size:16px;
+         font-family:arial;
+		 color:#91999A;
+		
+		 float:left;
+		 }
+.login_now{font-size:16px;
+        font-family:arial;
+		color:#3FA7BA;
+		float:right;
+		}			   	  		  	 			   
+	                 				 			   							  
+            							  			  	  			  			 		
